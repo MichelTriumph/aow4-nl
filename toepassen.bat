@@ -1,0 +1,1 @@
+py gehannes.py nl.po "%UserProfile%\Documents\Paradox Interactive\Age of Wonders 4\Mods\NL\Language\NL.mo"
